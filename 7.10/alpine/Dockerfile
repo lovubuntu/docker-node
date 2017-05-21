@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM docker:latest
 
 ENV NPM_CONFIG_LOGLEVEL info
 ENV NODE_VERSION 7.10.0
